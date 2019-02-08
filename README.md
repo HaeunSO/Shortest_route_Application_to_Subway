@@ -9,6 +9,6 @@ Shortest route Application to Subway for Dijkstra
 4) Application Form (in 'subway' or each File) :
     - Main : Form1
     - Web : Form2
-    - Dijkstra & Station Info : Form3
+    - Dijkstra : Form3
     
 You Need ((PostgreSQL / Visual Studio / Ecilpse))!
