@@ -6,7 +6,7 @@ Shortest route Application to Subway for Dijkstra
     - Create Table & insert data into 'linenm' : createTable.sql or createTable.txt
 3) CREATE Node & Link :
     - jdbc_test.java, node.java
-4) Application Form (in 'subway') :
+4) Application Form (in 'subway' or each File) :
     - Main : Form1
     - Web : Form2
     - Dijkstra & Station Info : Form3
