@@ -5,9 +5,9 @@ Shortest route Application to Subway for Dijkstra
 2) DBMS : PostgreSQL / Make database 'testdb'
 3) CREATE Node & Link :
     - jdbc_test.java, node.java
-4) Application Form :
+4) Application Form (in 'subway') :
     - Main : Form1
     - Web : Form2
     - Dijkstra & Station Info : Form3
     
-You Need ((PostgreSQL / Visual Studio / Ecilpse))
+You Need ((PostgreSQL / Visual Studio / Ecilpse))!
